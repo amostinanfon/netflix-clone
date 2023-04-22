@@ -1,4 +1,3 @@
-import { Label } from '@mui/icons-material';
 import React from 'react';
 
 interface NavbarItemProps {
